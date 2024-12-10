@@ -1,0 +1,5 @@
+0 mouse
+1 tiger
+2 rabbit
+3 dragon
+4 horse
